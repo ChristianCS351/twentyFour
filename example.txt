@@ -8,3 +8,6 @@ else:
   print("That's okay, i didnt really want to merge anyway... :'(  ")
 
 Helo Lonney :-)
+
+
+help Julie plz

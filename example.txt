@@ -1,4 +1,6 @@
 Hello People!
+Added some more stuff, yay!
+Removed a thing probably.
 Conflict time
 
 hello = input("Would you like to merge? Y/N")

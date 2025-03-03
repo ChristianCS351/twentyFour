@@ -9,5 +9,6 @@ if hello == Y:
   print("You chose to merge... LETS MERGE... MERGING>>>> :O .... XO   ")
 else: 
   print("That's okay, i didnt really want to merge anyway... :'(  ")
-
+Helo Lonney :-)
+help Julie plz
 Helo Lonney :-)

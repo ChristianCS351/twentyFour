@@ -1,5 +1,5 @@
-#Hello People!
-#Added some more stuff, yay!
+Hello People!
+Conflict time
 
 hello = input("Would you like to merge? Y/N")
 if hello == Y:

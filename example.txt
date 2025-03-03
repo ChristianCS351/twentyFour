@@ -1,4 +1,13 @@
 Hello People!
 Added some more stuff, yay!
-
 Just a simple addition to the text file
+Removed a thing probably.
+Conflict time
+
+hello = input("Would you like to merge? Y/N")
+if hello == Y:
+  print("You chose to merge... LETS MERGE... MERGING>>>> :O .... XO   ")
+else: 
+  print("That's okay, i didnt really want to merge anyway... :'(  ")
+
+Helo Lonney :-)
